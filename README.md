@@ -19,7 +19,6 @@ Also, made sure to use conditional formatting that will highlight positive chang
 ![VBA-challenge2018](https://github.com/JLaydeJ/VBA-challenge/assets/134284646/d792466b-6e78-45c0-a4c7-37efc35ca1ce)
 
 
-
 ![VBA-challenge2019](https://github.com/JLaydeJ/VBA-challenge/assets/134284646/b69c8e23-b5dd-4738-9999-89b846f76696)
 
 
